@@ -102,3 +102,18 @@ dist
 
 # TernJS port file
 .tern-port
+
+# WebStorm configurations
+.idea
+
+# Ignore the etc folders created by
+etc/
+
+# Do not add dist to git
+dist
+
+# ignore the config assets as its generated runtime and thus should notbe included in git
+src/config/assets.js
+
+# Ignore sass cache
+.sass-cache

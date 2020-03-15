@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ellada/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ellada/static/js/main.f986b7e6.chunk.js",
+    "main.js.map": "/ellada/static/js/main.f986b7e6.chunk.js.map",
+    "runtime-main.js": "/ellada/static/js/runtime-main.5ec578ef.js",
+    "runtime-main.js.map": "/ellada/static/js/runtime-main.5ec578ef.js.map",
+    "static/js/2.a40561b6.chunk.js": "/ellada/static/js/2.a40561b6.chunk.js",
+    "static/js/2.a40561b6.chunk.js.map": "/ellada/static/js/2.a40561b6.chunk.js.map",
+    "index.html": "/ellada/index.html",
+    "precache-manifest.1a10697d78507c62e2616205d1ae79a2.js": "/ellada/precache-manifest.1a10697d78507c62e2616205d1ae79a2.js",
+    "service-worker.js": "/ellada/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ellada/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a40561b6.chunk.js.LICENSE.txt": "/ellada/static/js/2.a40561b6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ellada/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ec578ef.js",
+    "static/js/2.a40561b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f986b7e6.chunk.js"
+  ]
+}

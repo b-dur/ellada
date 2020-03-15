@@ -1,7 +1,7 @@
 {
-  "name": "example-pawjs-tailwind",
+  "name": "ellada",
   "version": "1.0.0",
-  "description": "Example on using Tailwind CSS with PawJS",
+  "description": "Learning Greek words",
   "scripts": {
     "start": "pawjs --env=development start",
     "build": "pawjs --env=production --config=prod.pawconfig.json build"
@@ -39,8 +39,8 @@
   },
   "homepage": "https://github.com/Atyantik/example-pawjs-tailwind#readme",
   "dependencies": {
-    "autoprefixer": "^9.5.0",
+    "autoprefixer": "^9.7.4",
     "postcss-loader": "^3.0.0",
-    "tailwindcss": "^1.1.2"
+    "tailwindcss": "^1.2.0"
   }
 }
